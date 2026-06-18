@@ -1,5 +1,3 @@
-# AIF5-self-parking-Final-Project
-Markdown
 # AIF5 Self-Parking Final Project
 
 ## Project Structure
